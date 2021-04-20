@@ -1,0 +1,15 @@
+{
+  "name": "first-tests-with-jest",
+  "version": "1.0.0",
+  "description": "My first tests with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "AndresParraGO",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
